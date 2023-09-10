@@ -6,9 +6,9 @@
 <br/>
 
 
-<hr align="left" width="1000" size="4" color="#ff0000" />
+<hr align="left" width="700" size="4" color="#ff0000" />
 <br/>
-<hr align="left" width="1000" size="4" color="#ff0000" />
+<hr align="left" width="700" size="4" color="#ff0000" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxim-lixakov&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maxim-lixakov&theme=solarized_dark)
