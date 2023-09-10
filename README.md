@@ -1,5 +1,11 @@
 <h1 align="center">Hi there, I'm Maksim Lixakov</a> 
-<img src="https://cdn.dribbble.com/users/291221/screenshots/1618460/hipster_runner.gif" height="32"/></h1>
+<img src="https://media.tenor.com/JpI67YO59AwAAAAi/fas-fashion.gif" height="32"/></h1>
+
+[![Instagram](https://img.shields.io/badge/instagram-pink?logo=instagram)](https://www.instagram.com/licksuckoff/)
+[![Strava](https://img.shields.io/badge/strava-orange?logo=strava)](https://www.strava.com/athletes/118950402)
+[![Telegram](https://img.shields.io/badge/telegram-white?logo=telegram)](https://t.me/mlixakov)
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://ru.linkedin.com/in/maksim-l-6bb822121)
+
 <h3 style="font-size:100px !important;">Education: </h3>
 <h3 align="left"> 💻 Student at <a href="https://www.hse.ru/en/ma/system/">"Computer systems and networks"</a></h3>
 <h3 align="left"> 🎓 Graduated <a href="https://www.hse.ru/en/ba/bi/">"Business Informatics" </a></h3>
