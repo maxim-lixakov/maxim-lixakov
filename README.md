@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Maksim Lixakov</a> 
+<h1 align="center">Hi there, I'm Maksim Liksakov</a> 
 <img src="https://media.tenor.com/JpI67YO59AwAAAAi/fas-fashion.gif" height="32"/></h1>
 
 <h3 style="font-size:100px !important;">Education: </h3>
