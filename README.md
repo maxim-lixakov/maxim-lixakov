@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/JpI67YO59AwAAAAi/fas-fashion.gif" height="32"/></h1>
 
 <h3 style="font-size:100px !important;">Education: </h3>
-<h3 align="left"> 💻 Student at <a href="https://www.hse.ru/en/ma/system/">"Computer systems and networks"</a></h3>
+<h3 align="left"> 🎓 Graduated <a href="https://www.hse.ru/en/ma/system/">"Computer systems and networks"</a></h3>
 <h3 align="left"> 🎓 Graduated <a href="https://www.hse.ru/en/ba/bi/">"Business Informatics" </a></h3>
 
 ---
