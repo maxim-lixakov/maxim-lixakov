@@ -19,7 +19,7 @@
 
 <p>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img width="4%" src="https://www.svgrepo.com/show/355038/golang.svg"></code>
+<code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/go-8.svg"></code>
 <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
 <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1280px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
